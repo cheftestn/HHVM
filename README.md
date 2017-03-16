@@ -1,4 +1,3 @@
-![HHVM](logo.svg)
 # HHVM installation with Netdata on Ubuntu 16.04
 
 ## Install Nginx:
